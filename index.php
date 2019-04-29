@@ -26,7 +26,9 @@
     </ul>
 
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In perspiciatis alias praesentium deserunt, eligendi impedit ab dolore illo rerum, vitae nostrum dignissimos autem reprehenderit natus porro reiciendis? Magnam, veniam saepe.</p>
-    <footer><p>ça fonctionne !</p>
+    <footer>
+        <img src ="assets/img/js.png">
+        <p>ça fonctionne !</p>
 </footer>
 </body>
 
