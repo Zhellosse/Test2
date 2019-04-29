@@ -8,6 +8,9 @@
     <script src="asset/main.js"></script>
     <title>test 2</title>
 </head>
+
+<header>
+<h1> TITRE PRINCIPAL </h1>
 <body>
 
 <div id="bloc"> Nouveau bloc </div>
