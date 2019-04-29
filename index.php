@@ -8,6 +8,8 @@
     <title>test 2</title>
 </head>
 <body>
+<div id="bloc"> Nouveau bloc </div>
+<div>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In perspiciatis alias praesentium deserunt, eligendi impedit ab dolore illo rerum, vitae nostrum dignissimos autem reprehenderit natus porro reiciendis? Magnam, veniam saepe.</p>
 </body>
 </html>
